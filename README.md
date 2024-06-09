@@ -1,1 +1,10 @@
-# Deber_Implementaci-n-de-un-Sistema-de-Men-s
+# Deber_Implementacion-de-un-Sistema-de-Menus
+Se crea una interfaz de usuario con una barra de menú, una imagen de fondo, un título de bienvenida y un botón de "Continuar". Se importan las clases necesarias de JavaFX para crear la aplicación, y se define una clase Mainque se extiende Applicationy describe el método start(), que se ejecuta cuando se inicia la aplicación. Se crea una barra de menú con tres menús: "Archivo", "Editar" y "Ayuda", cada uno con diferentes opciones como "Nuevo", "Abrir", "Guardar", "Salir", "Cortar", "Copiar". ", "Pegar", "Preferencias" y "Acerca de". Se define la estructura de la interfaz de usuario utilizando un BorderPanecontenedor principal, donde se agrega el menú en la parte superior, una imagen de fondo, un título de bienvenida en el centro y un botón "Continuar" en la parte inferior. Se asignan comportamientos a cada opción del menú, imprimiendo un mensaje en la consola cuando se selecciona una opción. Finalmente, se crea una Scenecon el contenido de la interfaz de usuario y se establece en la Stageprincipal, que se muestra al usuario.
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/7ba7256f-ed4b-4e65-ab1e-c998a83f7526)
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/5995e411-c7b5-482f-bcf1-ac49c2096f0b)
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/8823076f-3154-478b-b796-2475782a1dd6)
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/78b0aa58-d97d-4ab6-885f-f39d92b80d58)
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/a5c0532c-29b5-4221-8bea-80e96c9b156f)
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/714b3766-706d-4add-ab8b-f4554c437629)
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/a87efe98-2884-45ba-b93e-26b3588c6dfe)
+![image](https://github.com/Davich014/Deber_Implementaci-n-de-un-Sistema-de-Men-s/assets/169005437/8bbd14ba-50c1-4564-a8b9-f0530bf7a4ae)
